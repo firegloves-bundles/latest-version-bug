@@ -1,0 +1,8 @@
+version: 2
+code: latest-version-bug
+description: This is the theLucas bundle
+
+components:
+
+ ## entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
